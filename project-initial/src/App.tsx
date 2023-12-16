@@ -1,10 +1,8 @@
-import './App.css'
+import Login from "./page/Login"
 
 function App() {
   return (
-    <>
-      <h1>Iniciando projeto react vite Revisão</h1>
-    </>
+      <Login />
   )
 }
 
